@@ -1,6 +1,6 @@
 # HackerRank-Preparation
 
-Hello guys, these are my answers about Interview Preparation Kit provide by HackerRank. 
+Hello guys, these are my answers about Interview Preparation Kit provide by [HackerRank](https://www.hackerrank.com). 
 The kit is prepared to finished about 1 month. 
 So the content are divided into weeks, every week has your own exercises and a mock test that it going to be a final week test.
 > Feel free to use my solutions as inspiration. 
